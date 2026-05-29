@@ -62,7 +62,8 @@ Triggered by a **tender notification from a Government Agency**, the process spa
 
 ### 2. STBN Legal Advice Service – Full Process Improvement
 **Course:** BISM 7216 · Assignment 2 (Team, Group 6) · UQ (2025)
-**Team:** Devanshi Shambhwani, Pragadeesh Manickavasagam, Isha Bhatia, Kushagra Sahai, Manmeet Kaur Chanana
+
+**Note: BPMN 2.0 XML files for A2 are not available as the SAP Signavio academic licence has expired. The full process is documented in the PDF exports and report above.**
 
 End-to-end process improvement engagement for **Stronger Together Business Network (STBN)**, a member services organisation whose free legal advisory service had outgrown its capacity. The task mirrored a real consulting brief: discover the current process, identify bottlenecks, quantify impact, and design an improved future state.
 
